@@ -1,0 +1,6 @@
+/home/pushpalanka/Msc/ami_Geofencing-master/app/build/intermediates/classes/debug
+/home/pushpalanka/Msc/ami_Geofencing-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-06a162aa823403bef29fe210cc8003a5537af013.jar
+/home/pushpalanka/Msc/ami_Geofencing-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0b5406c5e03a28e0751eca9149b7eb146c62957e.jar
+/home/pushpalanka/Msc/ami_Geofencing-master/app/build/intermediates/pre-dexed/debug/classes-a2bef8d7cb96f6d553b814e60a54c49ef4af8c3e.jar
+/home/pushpalanka/Msc/ami_Geofencing-master/app/build/intermediates/pre-dexed/debug/classes-98e2d6b6ac4bf80fe0aa9bfd5622cfcd45ff4b36.jar
+/home/pushpalanka/Msc/ami_Geofencing-master/app/build/intermediates/pre-dexed/debug/classes-c8d32de908258db35da6907cabde9f8bba9716f1.jar
